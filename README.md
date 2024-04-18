@@ -23,8 +23,8 @@ This project, completed as a part of the Advanced MySQL Data Analysis course, ex
 ## Getting Started
  
 1. Data analysis scripts are documented in three separate notebooks:
-   - [Web Analytics](https://github.com/khinydnlin/portfolio/blob/main/E-commerce%20Analytics/1.%20Channel%20Analytics%20-%20E-Commerce.ipynb)
-   - [Product Analytics](https://github.com/khinydnlin/portfolio/blob/main/E-commerce%20Analytics/2.%20Product%20Analytics%20-%20E-commerce.ipynb)
+   - [Web Analytics](https://github.com/khinydnlin/e_commerce_analytics/blob/main/1.%20Channel%20Analytics%20-%20E-Commerce.ipynb)
+   - [Product Analytics](https://github.com/khinydnlin/e_commerce_analytics/blob/main/1.%20Product%20Analytics%20-%20E-Commerce.ipynb)
    - [User Behaviour Analytics](https://github.com/khinydnlin/portfolio/blob/main/E-commerce%20Analytics/3.%20User%20Behaviour%20Analytics%20-%20E-commerce.ipynb)
      
 2. Data Description
